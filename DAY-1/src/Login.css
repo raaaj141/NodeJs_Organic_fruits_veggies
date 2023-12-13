@@ -1,0 +1,57 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('file:///C:/Users/gokul/Downloads/realestate-land-169-login-page-background-upscaled.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+  }
+  .SignUp{
+    padding-top: 20px;
+    text-align: center;
+  }
+  .head{
+    text-align: center;
+  }
+  form {
+    width: 350px;
+    padding: 25px;
+    border: 1px solid #000000;
+    background-color:   #ffffff;
+    border-radius: 8px;
+    box-shadow: 20px 20px 20px #3f3b3b;
+  }
+  
+  .form-group1 {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #020202;
+    border-radius: 5px;
+  }
+  
+  .login_button {
+    margin-top: 15px;
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    font-size:95%;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    border: none;
+    cursor:pointer;
+  }
+  .login_button:hover {
+    background-color: #45a049;
+  }
+  
